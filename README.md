@@ -39,3 +39,4 @@ python3 lz.py generate <num_keys> [<filename>]
 python3 lz.py withdraw <token> <network> <min_amount> <max_amount> [--min_time=<min_time>] [--max_time=<max_time>] [--keys=<private_keys>] [--exchange=<exchange>]
 python3 lz.py run <bridger_mode> [--keys=<private_keys>] [--refuel=<refuel_mode>] [--limit=<limit>]
 ```
+Commit #1 on 2024-11-12
