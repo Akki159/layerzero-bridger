@@ -40,3 +40,4 @@ python3 lz.py withdraw <token> <network> <min_amount> <max_amount> [--min_time=<
 python3 lz.py run <bridger_mode> [--keys=<private_keys>] [--refuel=<refuel_mode>] [--limit=<limit>]
 ```
 Commit #1 on 2024-11-12
+Commit #2 on 2024-11-13
